@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scale on PrestaShop Developer Documentation</title>
+    <link>https://devdocs.prestashop.com/1.7/scale/</link>
+    <description>Recent content in Scale on PrestaShop Developer Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Dec 2018 11:19:31 +0100</lastBuildDate>
+    
+	<atom:link href="https://devdocs.prestashop.com/1.7/scale/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Optimize your PrestaShop</title>
+      <link>https://devdocs.prestashop.com/1.7/scale/optimizations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devdocs.prestashop.com/1.7/scale/optimizations/</guid>
+      <description>How to Optimize the performance of your PrestaShop In order to properly benchmark your shop, you need to check the settings of PHP, Apache and MySQL.
+1) PHP Settings Try to use PHP &amp;gt;=7, it will speed up a lot your shop!
+If you&amp;rsquo;re using PHP-FPM (which should be the case in most of &amp;ldquo;modern&amp;rdquo; installations), you have to check the pool configuration. It&amp;rsquo;s usually stored in the file /etc/php/7.</description>
+    </item>
+    
+  </channel>
+</rss>
